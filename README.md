@@ -2,7 +2,7 @@
 
 > Status: Developing ⚠️
 
-### It is a web automation project using PLAYWRIGHT with PAGE OBJECT for study purposes.
+### This is a web automation project using PLAYWRIGHT with PAGE OBJECT for study purposes.
 
 ## Technologies Used:
 
