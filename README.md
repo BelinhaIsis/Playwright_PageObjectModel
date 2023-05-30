@@ -23,7 +23,8 @@
 
 ## How to run the application
 
-1) Run shell: npm init -y
-2) Run shell: npm init playwright@latest
-3) Run shell: npx playwright test
+1) Create a new folder and open in IDE or Editor (like VS Code)
+2) Initialize a new Node.js project by running npm init -y to create a package.json file
+3) Install & Setup Playwright by running npm init playwright@latest
+
 
